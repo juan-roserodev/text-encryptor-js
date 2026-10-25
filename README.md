@@ -75,7 +75,7 @@ Abre `index.html` en el navegador (o usa la extensión *Live Server* de VS Code)
 
 ## 👤 Autor
 
-**Juan David Rosero Reyes** · Desarrollador web junior
+**Juan David Rosero Reyes** · Desarrollador web full stack
 
 [![Portafolio](https://img.shields.io/badge/Portafolio-juan--roserodev.github.io-0A66C2?style=flat&logo=githubpages&logoColor=white)](https://juan-roserodev.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-david--reyes--dev-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-reyes-dev)
